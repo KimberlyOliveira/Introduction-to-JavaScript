@@ -1,3 +1,6 @@
+npm install
+
+
 import functions from '../index';
 
 describe('fooFunction', ()=>{
